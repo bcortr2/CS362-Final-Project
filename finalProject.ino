@@ -1,5 +1,4 @@
 /*Brad Cortright 
-  bcortr2
   Final Project Code Pt 1
   This code is for the Uno that receives input from the 
   Duemilanove and controls the rest of the game
