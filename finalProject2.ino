@@ -1,5 +1,4 @@
 /*Brad Cortright 
-  bcortr2
   Final Project Code Pt 2
   This code is for the Duemilanova that takes input from the 
   buttons and sends that data to the Uno
